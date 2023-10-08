@@ -1,2 +1,2 @@
 # DMAC
-Recording codes for DaSE Modern AI course
+Recording personal code design for DaSE Modern AI course
