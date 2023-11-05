@@ -1,6 +1,8 @@
 # DMAC
 Recording personal code design for DaSE Modern AI course
 
+Github repo:https://github.com/Ghostlikei/DMAC Codes maybe updated later to testing LLM apis
+
 ## Project1
 
 Validation code locates on `/DMAC/project1/validation.py`，
@@ -58,3 +60,9 @@ If your environment does not contain basic ML/DL models, you should install them
 Any question about the simple testing architecture, please raise **ISSUE** on github directly.
 
 Due to the limitation of time, the `dmac` testing architecture would maybe too simple and buggy. If you wanna modify the testing architecture, please directly fork this repo.
+
+## Project 2
+
+A* Algorithm and its modification
+
+All code in `project2`
